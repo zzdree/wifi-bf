@@ -50,7 +50,12 @@ wifi-brute-force/
 ├── README.md              ← Dokumentasi lengkap & petunjuk penggunaan
 ├── main.py                ← Skrip utama program (eksekusi via python main.py)
 └── dictionaries/          ← Folder penampung file wordlist (.txt)
-    └── .gitkeep
+    ├── dictionary_general.txt      ← 1.000+ password umum Indonesia
+    ├── dictionary_edelweis.txt     ← 4.900+ variasi pola edelweis / bunga
+    ├── dictionary_hifi.txt         ← 600+ pola router ZTE & audio hifi
+    ├── dictionary_router.txt       ← 300+ password default pabrikan router
+    ├── dictionary_artnet.txt       ← 590+ kombinasi artnet / lighting / DMX
+    └── dictionary_wash.txt         ← 620+ kombinasi wash / carwash / stage
 ```
 
 ---
