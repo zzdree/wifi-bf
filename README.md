@@ -49,14 +49,21 @@ wifi-brute-force/
 ├── LICENSE                ← Lisensi resmi MIT (@zzdree)
 ├── README.md              ← Dokumentasi lengkap & petunjuk penggunaan
 ├── main.py                ← Skrip utama program (eksekusi via python main.py)
-└── dictionaries/          ← Folder penampung wordlist kustom (.txt)
-    ├── dictionary_general.txt           ← 1.000+ password umum Indonesia
+└── dictionaries/          ← Folder penampung 20 wordlist kustom (.txt)
     ├── dictionary_edelweis.txt          ← 4.900+ variasi pola edelweis / bunga
     ├── dictionary_cities.txt            ← 2.000+ nama kota/daerah di Indonesia
     ├── dictionary_cafe_culinary.txt     ← 1.400+ pola cafe, warkop & kuliner
     ├── dictionary_campus_school.txt     ← 1.400+ pola kampus, sekolah & lab
+    ├── dictionary_hotel_villa.txt       ← 1.350+ pola hotel, resort & villa
     ├── dictionary_indo_names.txt        ← 1.300+ nama populer Indonesia
-    ├── dictionary_office_corporate.txt  ← 1.000+ pola kantor, staff & meeting
+    ├── dictionary_gaming_esports.txt    ← 1.080+ pola warnet, game & esport
+    ├── dictionary_retail_minimarket.txt ← 1.080+ pola toko, ruko & minimarket
+    ├── dictionary_automotive_garage.txt ← 1.080+ pola bengkel & otomotif
+    ├── dictionary_sports_gym.txt        ← 1.080+ pola fitness, gym & futsal
+    ├── dictionary_health_clinic.txt     ← 1.080+ pola klinik, apotek & dokter
+    ├── dictionary_tech_developer.txt    ← 1.080+ pola IT, developer & network
+    ├── dictionary_office_corporate.txt  ← 1.080+ pola kantor, staff & meeting
+    ├── dictionary_general.txt           ← 1.000+ password umum Indonesia
     ├── dictionary_wifi_themes.txt       ← 750+ tema wifi & salam Indonesia
     ├── dictionary_wash.txt              ← 620+ kombinasi wash / carwash / stage
     ├── dictionary_hifi.txt              ← 600+ pola router ZTE & audio hifi
