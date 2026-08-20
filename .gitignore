@@ -1,0 +1,18 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary profiles, progress, and logs
+temporary.xml
+.progress
+results.log
+*.log
+
+# Environments & Editors
+.env
+.venv
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
