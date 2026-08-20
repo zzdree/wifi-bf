@@ -49,13 +49,20 @@ wifi-brute-force/
 ├── LICENSE                ← Lisensi resmi MIT (@zzdree)
 ├── README.md              ← Dokumentasi lengkap & petunjuk penggunaan
 ├── main.py                ← Skrip utama program (eksekusi via python main.py)
-└── dictionaries/          ← Folder penampung file wordlist (.txt)
-    ├── dictionary_general.txt      ← 1.000+ password umum Indonesia
-    ├── dictionary_edelweis.txt     ← 4.900+ variasi pola edelweis / bunga
-    ├── dictionary_hifi.txt         ← 600+ pola router ZTE & audio hifi
-    ├── dictionary_router.txt       ← 300+ password default pabrikan router
-    ├── dictionary_artnet.txt       ← 590+ kombinasi artnet / lighting / DMX
-    └── dictionary_wash.txt         ← 620+ kombinasi wash / carwash / stage
+└── dictionaries/          ← Folder penampung wordlist kustom (.txt)
+    ├── dictionary_general.txt           ← 1.000+ password umum Indonesia
+    ├── dictionary_edelweis.txt          ← 4.900+ variasi pola edelweis / bunga
+    ├── dictionary_cities.txt            ← 2.000+ nama kota/daerah di Indonesia
+    ├── dictionary_cafe_culinary.txt     ← 1.400+ pola cafe, warkop & kuliner
+    ├── dictionary_campus_school.txt     ← 1.400+ pola kampus, sekolah & lab
+    ├── dictionary_indo_names.txt        ← 1.300+ nama populer Indonesia
+    ├── dictionary_office_corporate.txt  ← 1.000+ pola kantor, staff & meeting
+    ├── dictionary_wifi_themes.txt       ← 750+ tema wifi & salam Indonesia
+    ├── dictionary_wash.txt              ← 620+ kombinasi wash / carwash / stage
+    ├── dictionary_hifi.txt              ← 600+ pola router ZTE & audio hifi
+    ├── dictionary_artnet.txt            ← 590+ kombinasi artnet / lighting / DMX
+    ├── dictionary_router.txt            ← 300+ password default pabrikan router
+    └── dictionary_keyboard_patterns.txt ← 250+ pola urutan tombol keyboard
 ```
 
 ---
