@@ -44,7 +44,7 @@ jawab atas segala bentuk penyalahgunaan program ini.
 ## 📁 Struktur Repositori
 
 ```
-wifi-brute-force/
+wifi-bf/
 ├── .gitignore             ← Melindungi log dan progress lokal
 ├── LICENSE                ← Lisensi resmi MIT (@zzdree)
 ├── README.md              ← Dokumentasi lengkap & petunjuk penggunaan
@@ -90,8 +90,8 @@ wifi-brute-force/
 
 1. **Clone Repositori:**
    ```bash
-   git clone https://github.com/zzdree/wifi-brute-force.git
-   cd wifi-brute-force
+   git clone https://github.com/zzdree/wifi-bf.git
+   cd wifi-bf
    ```
 
 2. **Tambahkan Wordlist / Dictionary:**
